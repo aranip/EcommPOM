@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="7473" started-at="2019-11-20T04:15:57Z" finished-at="2019-11-20T04:16:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="7473" started-at="2019-11-20T04:15:57Z" finished-at="2019-11-20T04:16:04Z">
+      <class name="com.apex.ecommerce.signon.test.SignonTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.apex.ecommerce.signon.test.SignonTest@366e2eef]" name="setup" is-config="true" duration-ms="7310" started-at="2019-11-19T20:15:57Z" finished-at="2019-11-19T20:16:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testwithSuccessCredentials()[pri:0, instance:com.apex.ecommerce.signon.test.SignonTest@366e2eef]" name="testwithSuccessCredentials" duration-ms="2" started-at="2019-11-19T20:16:04Z" finished-at="2019-11-19T20:16:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testwithSuccessCredentials -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.apex.ecommerce.signon.test.SignonTest@366e2eef]" name="teardown" is-config="true" duration-ms="136" started-at="2019-11-19T20:16:04Z" finished-at="2019-11-19T20:16:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.apex.ecommerce.signon.test.SignonTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
